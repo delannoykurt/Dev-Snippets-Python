@@ -1,0 +1,35 @@
+{
+    "main": {
+        "prefix": "main",
+        "body": [
+            "def main():",
+            "    print(\"Hello World!\")",
+            "",
+            "if __name__ == \"__main__\":",
+            "    main()"
+        ],
+        "description": "Snippet auto-g\u00e9n\u00e9r\u00e9 depuis main.py"
+    },
+    "header": {
+        "prefix": "header",
+        "body": [
+            "\"\"\"",
+            "Fichier : header.py",
+            "Auteur : Toi",
+            "Description : En-t\u00eate de fichier",
+            "\"\"\""
+        ],
+        "description": "Snippet auto-g\u00e9n\u00e9r\u00e9 depuis header.py"
+    },
+    "doc_template": {
+        "prefix": "doc_template",
+        "body": [
+            "def ma_fonction(x):",
+            "    \"\"\"",
+            "    Description : exemple de docstring.",
+            "    \"\"\"",
+            "    return x"
+        ],
+        "description": "Snippet auto-g\u00e9n\u00e9r\u00e9 depuis doc_template.py"
+    }
+}
